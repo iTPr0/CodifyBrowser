@@ -1,0 +1,35 @@
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Codify.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Bunifu_Browser.frmBrowser.resources
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Bunifu_Browser.Properties.Resources.resources
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Codify.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Codify.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Codify_Community.frmBrowser.resources
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Debug\Codify_Community.Properties.Resources.resources
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify_Community.frmBrowser.resources
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify_Community.Properties.Resources.resources
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Codify Community.exe
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Codify Community.pdb
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\EasyTabs.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.User32.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\EasyTabs.xml
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Diego\Desktop\Codify\Codify Community\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify.csproj.CopyComplete
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify Community.exe
+C:\Users\Diego\Desktop\Codify\Codify Community\obj\Debug\Codify Community.pdb

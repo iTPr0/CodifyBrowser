@@ -1,0 +1,4 @@
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Release\Codify_Community.frmBrowser.resources
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Release\Codify_Community.Properties.Resources.resources
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Release\Codify.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Codify\Bunifu Browser\obj\Release\Codify.csproj.CoreCompileInputs.cache
