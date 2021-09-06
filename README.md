@@ -2,16 +2,16 @@
 <b>WebBrowser</b> usando o aplicativo Windows Form em <b>C#</b>.
 
 ### Começando
-1) Clone este repositório ou baixe o [CodifyBroswer](https://github.com/iTPr0/CodifyBrowser/archive/refs/heads/master.zip)
+Clone este repositório ou baixe o [CodifyBroswer](https://github.com/iTPr0/CodifyBrowser/archive/refs/heads/master.zip)
 ```bash
 git clone https://github.com/iTPr0/CodifyBrowser.git
 ```
 ### Pré-requisitos
 Use o Visual Studio para abrir o projeto.
 
-2) Vá para a pasta `Codify Community`
-3) Selecione `Codify.csproj`
-4) Inicie
+1) Vá para a pasta `Codify Community`
+2) Selecione `Codify.csproj`
+3) Inicie
 ### Construído com
 [WindowsForms](https://docs.microsoft.com/pt-br/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8) - O Windows Forms em <b>c#</b>.
 
